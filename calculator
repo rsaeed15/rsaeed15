@@ -1,0 +1,7 @@
+
+def sum(a,b,c):
+    return a+b+c
+
+def subtraction(e,f,g):
+    return a-b-c
+
